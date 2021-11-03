@@ -9,4 +9,5 @@ Các chức năng chính:
 + Xem danh sách bạn bè
 + Hiển thị người chơi online
 + Xem bảng xếp hạng (có hiện online/offline)
+
 Hiện tôi đang xây dựng thêm các chức năng cho hoàn thiện hơn. Đây chỉ là project tham khảo, mọi người góp ý. Xin cảm ơn!!!
