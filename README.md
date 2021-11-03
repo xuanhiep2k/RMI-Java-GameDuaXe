@@ -1,5 +1,5 @@
 # RMIJava-GameDuaXe
-Tôi học trường Học viện Công nghệ Bưu chính Viễn thông và đây là bài tập lớn môn "Lập trình mạng" của tôi. Thầy yêu cầu tôi làm về game đua xe qua RMI, tôi đã làm project này dựa trên mẫu của thầy.
+Tôi học trường Học viện Công nghệ Bưu chính Viễn thông và đây là bài tập lớn môn "Lập trình mạng" của tôi. Thầy yêu cầu tôi làm về Game đua xe qua RMI, tôi đã làm project này dựa trên mẫu của thầy.
 
 Các chức năng chính:
 + Đăng nhập (người chơi đăng nhập để chơi)
